@@ -1,0 +1,46 @@
+section .container{
+    background-color: #e0e3e6;
+    height: 370px;
+}
+
+ul, ol{
+    text-decoration: none;
+}
+
+body{
+    width: 1172px;
+    margin: auto;
+}
+
+section .container button a{
+    background-color: #0dbcef;
+    font-size: 20px;
+    width: 165px;
+    text-align: left;
+}
+
+section .row{
+    display: flex;
+}
+
+.container h1{
+    font-size: 58px;
+    color: #222222;
+}
+
+.container p{
+    font-size: 18px;
+    color: #444444;
+}
+
+.container .row2{
+    display: flex;
+}
+
+.container .row2 img{
+    width: 230px;
+}
+
+.container1 img{
+    color: #777777;
+}
